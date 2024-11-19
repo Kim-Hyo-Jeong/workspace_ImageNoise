@@ -8,11 +8,12 @@
 
 <br/>
 
-다음과 같은 3가지 노이즈를 제공합니다.
+다음과 같은 4가지 노이즈를 제공합니다.
 
 -   **Gaussian 노이즈** : 그림 전체에 미세한 점처럼 고르게 변화를 추가합니다.  
--   **Salt-and-Pepper 노이즈** : 랜덤하게 밝은 점(소금)과 어두운 점(후추)을 추가합니다.  
--   **Combined 노이즈** : Gaussian과 Salt-and-Pepper 노이즈를 섞어서 추가합니다.  
+-   **Salt-and-Pepper 노이즈** : 랜덤하게 밝은 점(소금)과 어두운 점(후추)을 추가합니다.
+-   **Correlated 노이즈** : 주변 색과 연관된 더 부드러운 변화를 추가합니다.  
+-   **Gaussian + Salt-and-Pepper 노이즈** : Gaussian과 Salt-and-Pepper 노이즈를 섞어서 추가합니다.  
 
 <br/>
 
