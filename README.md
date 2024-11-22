@@ -47,6 +47,12 @@ Gaussian과 Salt-and-Pepper 노이즈를 섞어서 함께 적용할 수 있는 �
 
 노이즈가 적용된 이미지는 다음과 같습니다.  
 
+<br/>
+
+![image](https://github.com/user-attachments/assets/3fea4b79-d22b-46e9-8562-95fe7f2d1587)
+
+<br/>
+
 |원본 이미지|Gaussian 노이즈 이미지|Salt-and-Pepper 노이즈 이미지|
 |:---:|:---:|:---:|
 |![sample](https://github.com/user-attachments/assets/60f148b9-c6d8-435a-ab44-c09a1de6d6cb)|![Gaussian](https://github.com/user-attachments/assets/030f71b7-5589-4a1e-a419-4837528f0356)|![Salt-and-Pepper](https://github.com/user-attachments/assets/e92e510e-6826-437b-88ea-d5df7c0e70ce)|
